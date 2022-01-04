@@ -16,7 +16,7 @@
             <header>
                 Realtime Chat app
             </header>
-            <form action="#">
+            <form action="#" enctype="multipart/form-data" autocomplete="off">
                 <div class="error-txt">
                     This is an error message!
                 </div>
@@ -41,7 +41,7 @@
                 </div>
                 <div class="field image">
                     <label>Select image</label>
-                    <input type="file" name="image" >
+                    <input type="file" name="image" required>
                 </div>
                 <div class="field button">
                     <input type="submit" value="Continue to Chat">
