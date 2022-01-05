@@ -18,7 +18,7 @@
             </header>
             <form action="#" enctype="multipart/form-data" autocomplete="off">
                 <div class="error-txt">
-                    This is an error message!
+                    
                 </div>
                 <div class="name-details">
                     <div class="field input">
@@ -46,7 +46,7 @@
                 <div class="field button">
                     <input type="submit" value="Continue to Chat">
                 </div>
-                <div class="link">Already singed up? <a href="#">Login now</a></div>
+                <div class="link">Already singed up? <a href="login.php">Login now</a></div>
 
             </form>
         </section>
